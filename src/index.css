@@ -1,3 +1,6 @@
 body {
   margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(#247594, #10153f);
+  background-attachment: fixed;
 }
